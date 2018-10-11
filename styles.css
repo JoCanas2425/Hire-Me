@@ -1,0 +1,20 @@
+h2 {
+    font-family: 'K2D', sans-serif;
+     color:pink;
+}
+p {
+    font-family: 'Lato', sans-serif;
+}
+body {
+    background-color:grey;
+    background:url(https://i.redd.it/19agtq4u3ol11.gif) ;
+    color:black;
+    /*addmovingbackgroun*/
+}
+a {
+    color:lightblue;
+} 
+img {
+ width:300px;
+ Height:300px;
+}
